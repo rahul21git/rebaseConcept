@@ -6,4 +6,13 @@ This file supports python language.
 
 This is very important file.
 
+public void mul(){
+	int a =10;
+	int b = 20;
+
+	int c = a*b;
+
+	System.out.printlni("multiplication of numbers=>"+c);
+}
+
 
