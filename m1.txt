@@ -18,3 +18,9 @@ public void sub(){
 
 	System.our.println(a-b);
 }
+
+public void mul(){
+	int a=5;
+	int b=4;
+	System.out.println(a*b);
+}
