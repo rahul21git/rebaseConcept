@@ -3,3 +3,11 @@ This is first file.
 This file supports java language.
 
 work has completed.
+
+
+public void sum(){
+	int a=2;
+	int b=3;
+	int c = a + b;
+	System.out.println("sum of numbers=>",c);
+}
